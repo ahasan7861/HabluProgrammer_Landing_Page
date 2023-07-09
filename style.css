@@ -124,10 +124,9 @@ body{
     font-size: 14px;
     line-height: 21px;
     letter-spacing: -0.1px;
+    pointer-events: none;
 }
-.HeaderButton :hover{
-    
-}
+
 
 .HeaderButton img {
     margin-top: -3px;
